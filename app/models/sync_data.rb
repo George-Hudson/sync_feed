@@ -16,15 +16,15 @@ total_records: 551
 results: [
 {
 sync_run_id: "551",
-start_time: "2015-11-07 04:00:03",
-end_time: "2015-11-07 04:18:29",
+start_time: "2015-11-17 04:00:03",
+end_time: "2015-11-17 04:18:29",
 sync_status_id: "2",
 run_info: "null",
-from_date: "2015-11-07 04:00:03",
+from_date: "2015-11-17 04:00:03",
 thru_date: "null",
 active: "1",
 sync_status_name: "Finished successfully",
-sync_run_duration_hms: "00:18:26",
+sync_run_duration_hms: "00:8:13",
 sync_table_runs: [
 {
 sync_run_id: "551",
